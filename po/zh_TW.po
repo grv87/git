@@ -18234,9 +18234,9 @@ msgstr "如果使用 %2$s 編碼，禁止在 '%1$s' 中使用 BOM"
 #: convert.c
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
-msgstr "檔案 '%s' 包含位元組順序標記（BOM）。請使用 UTF-%.*s 作為工作區編碼。"
+msgstr "檔案 '%s' 包含位元組順序標記（BOM）。請使用 UTF-%s 作為工作區編碼。"
 
 #: convert.c
 #, c-format

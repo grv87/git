@@ -15437,11 +15437,11 @@ msgstr ""
 
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
 "Файлът „%s“ съдържа маркер за поредността на байтовете (BOM).  Използвайте "
-"„UTF-%.*s“ като кодиране за работното дърво."
+"„UTF-%s“ като кодиране за работното дърво."
 
 #, c-format
 msgid "BOM is required in '%s' if encoded as %s"

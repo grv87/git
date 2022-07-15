@@ -278,10 +278,9 @@ static int validate_encoding(const char *path, const char *enc,
 			 */
 			const char *advise_msg = _(
 				"The file '%s' contains a byte order "
-				"mark (BOM). Please use UTF-%.*s as "
+				"mark (BOM). Please use UTF-%s as "
 				"working-tree-encoding.");
-			int stripped_len = strlen(stripped) - strlen("BE");
-			advise(advise_msg, path, stripped_len, stripped);
+			advise(advise_msg, path, stripped);
 			if (die_on_error)
 				die(error_msg, path, enc);
 			else {

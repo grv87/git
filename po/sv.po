@@ -14713,10 +14713,10 @@ msgstr "BOM är förbjudet i \"%s\" om kodat som %s"
 
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
-"Filen \"%s\" innehåller byte order mark (BOM). Använd UTF-%.*s som "
+"Filen \"%s\" innehåller byte order mark (BOM). Använd UTF-%s som "
 "teckenkodning i arbetskatalogen."
 
 #, c-format

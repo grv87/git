@@ -3119,10 +3119,10 @@ msgstr "Znacznik kolejności bajtów zabroniony, jeśli „%s” zakodowano jako
 #: convert.c:280
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
-"Plik „%s” zawiera znacznik kolejności bajtów (BOM). Użyj UTF-%.*s jako "
+"Plik „%s” zawiera znacznik kolejności bajtów (BOM). Użyj UTF-%s jako "
 "kodowania drzewa roboczego."
 
 #: convert.c:293

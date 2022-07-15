@@ -3045,11 +3045,11 @@ msgstr "Il BOM è vietato in '%s' se il file è codificato come %s"
 #: convert.c:291
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
 "Il file '%s' contiene un indicatore dell'ordine dei byte (BOM). Usare UTF-"
-"%.*s come codifica dell'albero di lavoro."
+"%s come codifica dell'albero di lavoro."
 
 #: convert.c:304
 #, c-format

@@ -15085,10 +15085,10 @@ msgstr "BOM està prohibida a «%s» si està codificada com a %s"
 
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
-"El fitxer «%s» conté una marca d'ordre de byte (BOM). Utilitzeu UTF-%.*s com "
+"El fitxer «%s» conté una marca d'ordre de byte (BOM). Utilitzeu UTF-%s com "
 "a codificacions d'arbre de treball."
 
 #, c-format

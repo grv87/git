@@ -14504,7 +14504,7 @@ msgstr "BOM запрещен в «%s», если кодируется как %s"
 
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
 

@@ -14808,11 +14808,11 @@ msgstr "BOM '%s' içinde yasaklı, eğer %s olarak kodlanmışsa"
 
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
 "'%s' dosyası bir bayt sıra imi (BOM) içeriyor. Lütfen çalışma ağacı "
-"kodlaması için UTF-%.*s kullanın."
+"kodlaması için UTF-%s kullanın."
 
 #, c-format
 msgid "BOM is required in '%s' if encoded as %s"

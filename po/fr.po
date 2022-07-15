@@ -15179,11 +15179,11 @@ msgstr "Aucun BOM n'est permis dans '%s' s'il est encodé comme %s"
 
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
 "Le fichier '%s' contient un marqueur d'ordre d'octets (BOM). Veuillez "
-"utiliser UTF-%.*s comme encodage d'arbre de travail."
+"utiliser UTF-%s comme encodage d'arbre de travail."
 
 #, c-format
 msgid "BOM is required in '%s' if encoded as %s"

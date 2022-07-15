@@ -14863,10 +14863,10 @@ msgstr "BOM bị cấm trong “%s” nếu được mã hóa là %s"
 
 #, c-format
 msgid ""
-"The file '%s' contains a byte order mark (BOM). Please use UTF-%.*s as "
+"The file '%s' contains a byte order mark (BOM). Please use UTF-%s as "
 "working-tree-encoding."
 msgstr ""
-"Tập tin “%s” có chứa ký hiệu thứ tự byte (BOM). Vui lòng dùng UTF-%.*s như "
+"Tập tin “%s” có chứa ký hiệu thứ tự byte (BOM). Vui lòng dùng UTF-%s như "
 "là bảng mã cây làm việc."
 
 #, c-format
